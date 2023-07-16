@@ -56,13 +56,13 @@ body {
   .left_arm {
     margin-right: 10px;
     position: absolute;
-    left: 710px
+    left: 650px
   }
   
   .right_arm {
     margin-left: 10px;
     position: absolute;
-    left: 950px;
+    left: 890px;
   }
   
   .square {
@@ -71,7 +71,7 @@ body {
     height: 200px;
     border-radius: 0 0 50px 50px;
     transition: border-radius 1s;
-    left: 650px;
+    left: 620px;
   }
   
   .left_leg,.right_leg {
@@ -80,13 +80,13 @@ body {
     height: 120px;
     border-radius: 0 0 100px 100px;
     display: inline-block;
-    top: 245px;
+    top: 215px;
   }
   
   .left_leg {
     margin-left: 45px;
     position: absolute;
-    left: 6454px;
+    left: 645px;
   }
   
   .right_leg {
