@@ -71,7 +71,7 @@ body {
     height: 200px;
     border-radius: 0 0 50px 50px;
     transition: border-radius 1s;
-    left: 680px;
+    left: 650px;
   }
   
   .left_leg,.right_leg {
@@ -80,19 +80,19 @@ body {
     height: 120px;
     border-radius: 0 0 100px 100px;
     display: inline-block;
-    top: 275px;
+    top: 245px;
   }
   
   .left_leg {
     margin-left: 45px;
     position: absolute;
-    left: 675px;
+    left: 6454px;
   }
   
   .right_leg {
     margin-left: 30px;
     position: absolute;
-    left: 775px;
+    left: 745px;
   }
   
   .robots:hover .head {
